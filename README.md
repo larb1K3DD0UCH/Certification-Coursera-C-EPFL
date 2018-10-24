@@ -1,1 +1,1 @@
-# Certification-C-Coursera-Ecole-polytechnique-f-d-rale-de-Lausanne
+# Certification C++ -Coursera-Ecole-polytechnique-fédérale-de-Lausanne
